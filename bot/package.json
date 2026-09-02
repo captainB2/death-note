@@ -1,0 +1,12 @@
+{
+    "name": "death-note-bot",
+    "version": "1.0.0",
+    "private": true,
+    "type": "module",
+    "scripts": {
+        "start": "node main.js"
+    },
+    "dependencies": {
+        "puppeteer": "^25.3.0"
+    }
+}

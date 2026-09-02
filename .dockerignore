@@ -1,0 +1,7 @@
+challenge/node_modules
+challenge/.next
+**/node_modules
+**/.next
+.git
+exploit
+bot
